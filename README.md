@@ -7,5 +7,4 @@ Initially Inspired by: https://github.com/FrancescoSaverioZuppichini/Reinforceme
 
 A lot of phrases are extracted from Sutton-Barto Book and/or Coursera Specialization on Reinforcement Learning (https://www.coursera.org/specializations/reinforcement-learning).
 
-Work-In-Progress
-
+If you find something wrong or want to add anything new, please make a pull request.
